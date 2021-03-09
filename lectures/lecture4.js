@@ -12,7 +12,6 @@ function person(name, gender) {
 const personIs = person('Tasib', 'male');
 console.log(personIs);
 
-
 function example() {
     return {
         name: 'Tasib',
