@@ -21,6 +21,8 @@ function example() {
         }
     }
 }
+
 const obj = example();
 console.log(obj);
+
 obj.print();
