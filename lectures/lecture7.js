@@ -1,0 +1,1 @@
+// Javascript Return a Function from Another Function
